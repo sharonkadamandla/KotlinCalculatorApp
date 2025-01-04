@@ -1,7 +1,7 @@
 # CalculatorApp
 Calculator app built on Android Studio using Kotlin
 
-Calculations Available : +, -, *, / 
+Calculations Available : +, -, *, /, square, cube, x power n, sqrt
 
 Other Features : Copies the result automatically to clipboard
 
