@@ -42,7 +42,7 @@ The project is managed using Git for version control, ensuring proper tracking o
 
 ## Getting Started
 
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone < repository-url >
 
 Open the project in Android Studio.
 
