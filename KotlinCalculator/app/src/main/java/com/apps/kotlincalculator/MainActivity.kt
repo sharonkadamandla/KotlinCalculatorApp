@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
-
+import android.content.ClipData
 
 class MainActivity : AppCompatActivity() , View.OnClickListener {
 
@@ -64,8 +64,11 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
                 inputInString = "$a / $b = "
             }
         }
-        
+        var clip = ClipData.newPlainText("result is","$result")
+        clipboard.setPrimaryClip(clip)
+
         resultTV.text = "$inputInString $result"
+
 
     }
 }
