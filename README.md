@@ -10,6 +10,8 @@ Basic Operations: Addition (+), Subtraction (-), Multiplication (*), and Divisio
 
 Extra Feature: Results are automatically copied to the clipboard for ease of use.
 
+<img src="https://github.com/sharonkadamandla/KotlinCalculatorApp/blob/develop/KotlinCalculator/images/kotlincalculator.png" width=200>
+
 ## Technologies Used
 
 Backend: Kotlin
